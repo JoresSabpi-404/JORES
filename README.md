@@ -9,6 +9,8 @@ pip install futures
 pip install rich
 pip install flask
 pkg install git
-git clone https://github.com/JoresSabpi11/JORES.git
+git clone 
+python JORES.py
+git clone https://github.com/JoresSabpi-404/JORES.git
 cd JORES
 python JORES.py
